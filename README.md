@@ -88,7 +88,7 @@ replicaset.apps/prometheus-server-6d665b876                1         1         1
 ```
 ## Access the Prometheus server
 
-The Prometheus server can now be accessed at one of the nod eIP addresses at port 30900.
+The Prometheus server can now be accessed at one of the node IP addresses at port 30900.
 
 # Grafana Installation
 
